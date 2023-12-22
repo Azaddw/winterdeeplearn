@@ -1,25 +1,7 @@
 This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
-This is a try for git
 esc:yy for copy
 esc:p for pasted
 a little change
+我想我是会了
+
 
